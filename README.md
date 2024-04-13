@@ -9,7 +9,7 @@ I am looking for a job in the game development industry where I can work in the 
 
 How to reach me 📫
 
-[LinkedIn](www.linkedin.com/in/abdullah-%C3%B6zeren-b15a05285)
+[LinkedIn](https://www.linkedin.com/in/abdullah-%C3%B6zeren-b15a05285/)
 
 <!--
 **abdullahozeren55/abdullahozeren55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
