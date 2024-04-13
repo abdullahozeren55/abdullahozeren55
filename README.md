@@ -20,6 +20,8 @@ How to reach me 📫
 
 [LinkedIn](https://www.linkedin.com/in/abdullah-%C3%B6zeren-b15a05285/)
 
+Gmail: ozeren55abdullah@gmail.com
+
 
 <!--
 **abdullahozeren55/abdullahozeren55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
