@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 My name is Abdullah Ozeren 🗣️🤝
+
 I am a newly graduated computer engineer from Turkey 👨‍🎓🎓
+
 Game development has been a passion of mine since childhood 😎🤓
 
 I’m currently learning C# and Unity 🖥️⌨️
+
 I am looking for a job in the game development industry where I can work in the software department 😁
 
 How to reach me 📫
