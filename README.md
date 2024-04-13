@@ -20,7 +20,7 @@ How to reach me 📫
 
 [LinkedIn](https://www.linkedin.com/in/abdullah-%C3%B6zeren-b15a05285/)
 
-Gmail: ozeren55abdullah@gmail.com
+ozeren55abdullah@gmail.com 📧
 
 
 <!--
