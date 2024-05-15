@@ -13,7 +13,29 @@ I’m currently learning C# and Unity 🖥️⌨️
 
 I am looking for a job in the game development industry where I can work in the software department 😁
 
+<picture>
+            <source
+                    srcset="https://github-readme-stats.vercel.app/api?username=abdullahozeren55&show_icons=true&theme=radical&hide_border=true&border_radius=20&show=reviews"
+                    media="(prefers-color-scheme: dark)"
+                    />
+            <img height=220 src="https://github-readme-stats.vercel.app/api?username=abdullahozeren55&show_icons=true&theme=buefy&hide_border=true&border_radius=20&show=reviews&bg_color=f6f8fa" alt="GitHub Stats" />
+         </picture>
 
+<picture>
+            <source
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahozeren55&layout=compact&theme=radical&hide_border=true&border_radius=20"
+                    media="(prefers-color-scheme: dark)"
+                    />
+            <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahozeren55&layout=compact&theme=buefy&hide_border=true&border_radius=20&bg_color=f6f8fa" alt="Most Used Languages" />
+         </picture>
+
+<picture>
+            <source
+                    srcset="https://streak-stats.demolab.com?user=abdullahozeren55&theme=radical&hide_border=true&border_radius=20&date_format=%5BY%20%5DM%20j"
+                    media="(prefers-color-scheme: dark)"
+                    />
+            <img height=220 src="https://streak-stats.demolab.com?user=abdullahozeren55&theme=buefy&hide_border=true&border_radius=20&date_format=%5BY%20%5DM%20j" alt="Streak Stats" />
+         </picture>
 
 
 How to reach me 📫
